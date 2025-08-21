@@ -2,6 +2,6 @@
     "version": "0.0.1",
     "version_num": 1,
     "version_desc": "- 同步到fd821db",
-    "prerelease":true,
+    "prerelease":false,
     "download_url": "https://github.com/developer-wlj/dart_simple_live/releases"
 }
